@@ -29,12 +29,13 @@ Si tienes alguna propuesta, pregunta o simplemente quieres charlar sobre ciencia
 
 ## Skills 💻
 
-![Python](https://img.shields.io/badge/Python-intermediate-yellowblue?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-intermediate-bluewhite?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-intermediate-orangegrey?style=flat&logo=sql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-high-f2c811?style=flat&logo=power-bi&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-intermediate-blue?style=flat&logo=sas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-intermediate-blue?style=flat&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-f2c811?style=flat&logo=power-bi&logoColor=black)
+![SAS](https://img.shields.io/badge/-SAS-1D6FAC?style=flat&logo=sas&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 
 ### Algunas librerías interesantes 📚
 
