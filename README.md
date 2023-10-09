@@ -12,7 +12,8 @@ Soy graduado en Administración y Dirección de Empresas (ADE) 🎓 y tengo un m
   ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&logoColor=white)
   ![SAS](https://img.shields.io/badge/-SAS-1D6FAC?style=flat&logo=sas&logoColor=white)
-- **Otras herramientas relevantes**
+- **Otras herramientas relevantes:**
+
   ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat)
   ![Stata](https://img.shields.io/badge/-Stata-094486?style=flat)
   ![SPSS](https://img.shields.io/badge/-SPSS-1F77B4?style=flat)
