@@ -27,8 +27,30 @@ Si tienes alguna propuesta, pregunta o simplemente quieres charlar sobre ciencia
 - 📧 Email: [joserracortes15@gmail.com]
 - 🔗 LinkedIn: [https://www.linkedin.com/in/jose-ramon-cortes/]
 
-- ![Python](https://img.shields.io/badge/Python-3.8-blue)
-![R](https://img.shields.io/badge/R-latest-green)
-![SQL](https://img.shields.io/badge/SQL-Server-yellow)
-![Pandas](https://img.shields.io/badge/Pandas-1.2.3-red)
+## Skills 💻
+
+🐍![Python](https://img.shields.io/badge/Python-intermediate-yellowblue?style=flat&logo=python&logoColor=white)
+📊![R](https://img.shields.io/badge/R-intermediate-bluewhite?style=flat&logo=r&logoColor=white)
+🛢️![SQL](https://img.shields.io/badge/SQL-intermediate-orangegrey?style=flat&logo=sql&logoColor=white)
+🎨![Power BI](https://img.shields.io/badge/Power%20BI-high-f2c811?style=flat&logo=power-bi&logoColor=white)
+📈![SAS](https://img.shields.io/badge/SAS-intermediate-blue?style=flat&logo=sas&logoColor=white)
+🖼️![Tableau](https://img.shields.io/badge/Tableau-intermediate-blue?style=flat&logo=tableau&logoColor=white)
+
+### Algunas librerías interesantes 📚
+
+#### Python
+![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.2-orange?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5.0-yellow?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-2.4.3-red?style=flat&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-magenta?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-v0.11.1-teal?style=flat&logo=seaborn&logoColor=white)
+
+#### R
+![ggplot2](https://img.shields.io/badge/ggplot2-3.3.5-red?style=flat&logo=r&logoColor=white)
+![tidyr](https://img.shields.io/badge/tidyr-1.1.3-blue?style=flat&logo=r&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-1.0.7-green?style=flat&logo=r&logoColor=white)
+![forecast](https://img.shields.io/badge/forecast-8.15-orange?style=flat&logo=r&logoColor=white)
+![caret](https://img.shields.io/badge/caret-6.0.90-purple?style=flat&logo=r&logoColor=white)
+
 
