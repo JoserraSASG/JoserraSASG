@@ -8,11 +8,17 @@ Soy graduado en Administración y Dirección de Empresas (ADE) 🎓 y tengo un m
 
 - ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
   ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-f2c811?style=flat&logo=power-bi&logoColor=black)
-- ![SAS](https://img.shields.io/badge/-SAS-1D6FAC?style=flat&logo=sas&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-f2c811?style=flat&logo=power-bi&logoColor=black)
   ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
+- ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&logoColor=white)
+  ![SAS](https://img.shields.io/badge/-SAS-1D6FAC?style=flat&logo=sas&logoColor=white)
+- **Otras herramientas relevantes**
+  ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat)
+  ![Stata](https://img.shields.io/badge/-Stata-094486?style=flat)
+  ![SPSS](https://img.shields.io/badge/-SPSS-1F77B4?style=flat)
+  ![GeoDa](https://img.shields.io/badge/-GeoDa-78C3FB?style=flat)
+  ![DAX](https://img.shields.io/badge/-DAX-00BCF2?style=flat)
+  ![VBA](https://img.shields.io/badge/-VBA-5F2D91?style=flat)
 
 ### Algunas librerías interesantes 📚
 
