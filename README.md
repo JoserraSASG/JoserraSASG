@@ -6,30 +6,30 @@ Soy graduado en Administración y Dirección de Empresas (ADE) 🎓 y tengo un m
 
 ## Herramientas 💻
 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-f2c811?style=flat&logo=power-bi&logoColor=black)
-![SAS](https://img.shields.io/badge/-SAS-1D6FAC?style=flat&logo=sas&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
+  ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=r&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-f2c811?style=flat&logo=power-bi&logoColor=black)
+- ![SAS](https://img.shields.io/badge/-SAS-1D6FAC?style=flat&logo=sas&logoColor=white)
+  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 
 ### Algunas librerías interesantes 📚
 
 #### Python
-![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-yellow?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-magenta?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-teal?style=flat&logo=seaborn&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-blue?style=flat&logo=pandas&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?style=flat&logo=scikit-learn&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-yellow?style=flat&logo=tensorflow&logoColor=white)
+- ![Keras](https://img.shields.io/badge/Keras-red?style=flat&logo=keras&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-magenta?style=flat&logo=matplotlib&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-teal?style=flat&logo=seaborn&logoColor=white)
 
 #### R
-![ggplot2](https://img.shields.io/badge/ggplot2-red?style=flat&logo=r&logoColor=white)
-![tidyr](https://img.shields.io/badge/tidyr-blue?style=flat&logo=r&logoColor=white)
-![dplyr](https://img.shields.io/badge/dplyr-green?style=flat&logo=r&logoColor=white)
-![forecast](https://img.shields.io/badge/forecast-orange?style=flat&logo=r&logoColor=white)
-![caret](https://img.shields.io/badge/caret-purple?style=flat&logo=r&logoColor=white)
+- ![ggplot2](https://img.shields.io/badge/ggplot2-red?style=flat&logo=r&logoColor=white)
+- ![tidyr](https://img.shields.io/badge/tidyr-blue?style=flat&logo=r&logoColor=white)
+- ![dplyr](https://img.shields.io/badge/dplyr-green?style=flat&logo=r&logoColor=white)
+- ![forecast](https://img.shields.io/badge/forecast-orange?style=flat&logo=r&logoColor=white)
+- ![caret](https://img.shields.io/badge/caret-purple?style=flat&logo=r&logoColor=white)
 
 ## Habilidades 🧑
 
