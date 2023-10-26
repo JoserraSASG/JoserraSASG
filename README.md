@@ -58,6 +58,7 @@ Soy graduado en Administración y Dirección de Empresas (ADE) 🎓 y tengo un m
 
 1. **Modelización de datos y predicción de la victoria en partidos de balonmano** - Utilicé modelos de Machine Learning para calcular el porcentaje de victoria de cada equipo durante un partido y después poder clasificar el desempeño de los jugadores🥇.
 2. **Predicción de infarto cerebral** - Uso de modelos de clasificación y validación para conseguir clasificar que pacientes de una muestra pueden sufrir un ictus e intentar prevenirlo.
+3. **Creación de un modelo de maduración de datos**  - Creé una base de datos relacional en SQL con el fin de poder hacer una evaluación de datos de una empresa e inyectarlo en Power BI para que, de forma flexible, se entregue un producto rápido y claro a un cliente de cómo se encuentra en términos de maduración de datos.
 
 ### ¿Qué me motiva? 🌟
 
