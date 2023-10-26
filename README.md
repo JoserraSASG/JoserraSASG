@@ -42,16 +42,16 @@ Soy graduado en Administración y Dirección de Empresas (ADE) 🎓 y tengo un m
 ## Habilidades 🧑
 
 - ![Extraversión](https://img.shields.io/badge/-Extraversión-blue?style=flat)
-- ![Adaptabilidad](https://img.shields.io/badge/-Adaptabilidad-green?style=flat)
-- ![Atención al Detalle](https://img.shields.io/badge/-Atención%20al%20Detalle-yellow?style=flat)
-- ![Pensamiento Crítico](https://img.shields.io/badge/-Pensamiento%20Crítico-red?style=flat)
-- ![Creatividad](https://img.shields.io/badge/-Creatividad-orange?style=flat)
+ ![Adaptabilidad](https://img.shields.io/badge/-Adaptabilidad-green?style=flat)
+ ![Atención al Detalle](https://img.shields.io/badge/-Atención%20al%20Detalle-yellow?style=flat)
+ ![Pensamiento Crítico](https://img.shields.io/badge/-Pensamiento%20Crítico-red?style=flat)
+ ![Creatividad](https://img.shields.io/badge/-Creatividad-orange?style=flat)
 - ![Habilidades de Comunicación](https://img.shields.io/badge/-Habilidades%20de%20Comunicación-purple?style=flat)
-- ![Resolución de Problemas](https://img.shields.io/badge/-Resolución%20de%20Problemas-cyan?style=flat)
-- ![Toma de Decisiones](https://img.shields.io/badge/-Toma%20de%20Decisiones-brown?style=flat)
-- ![Ética Profesional](https://img.shields.io/badge/-Ética%20Profesional-lightblue?style=flat)
-- ![Eficiencia](https://img.shields.io/badge/-Eficiencia-pink?style=flat)
-- ![Autodisciplina](https://img.shields.io/badge/-Autodisciplina-lightgreen?style=flat)
+ ![Resolución de Problemas](https://img.shields.io/badge/-Resolución%20de%20Problemas-cyan?style=flat)
+ ![Toma de Decisiones](https://img.shields.io/badge/-Toma%20de%20Decisiones-brown?style=flat)
+ ![Ética Profesional](https://img.shields.io/badge/-Ética%20Profesional-lightblue?style=flat)
+ ![Eficiencia](https://img.shields.io/badge/-Eficiencia-pink?style=flat)
+ ![Autodisciplina](https://img.shields.io/badge/-Autodisciplina-lightgreen?style=flat)
 
 
 ### Proyectos destacados ✨
